@@ -1,6 +1,6 @@
 # Applied-ML-Regression
 
-Regression analysis on the following datasets avaliable at the UCI Machine Learning Repository http://archive.ics.uci.edu/ml/
+Regression analysis on the following datasets avaliable at the <a href="http://archive.ics.uci.edu/ml/">UCI Machine Learning Repository</a> :
 
 <div>
 <ol>
